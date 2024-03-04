@@ -1,2 +1,2 @@
 # tempCloudOTA
-Latest FW version 1.00.10
+Latest FW version 1.00.11
